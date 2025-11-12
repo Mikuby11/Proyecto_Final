@@ -102,6 +102,8 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 
 ### 2. [Hey Diseño](https://www.heydiseno.cl/somos-hey-agencia-de-diseno)
 **Tipo:** Agencia de diseño chilena fundada en 2014
+<img src="Assets/3.png" alt="Antecedente 2">
+<img src="Assets/2.png" alt="Antecedente 2">
 
  **Aspectos positivos:**
 - Estructura clara que separa servicios (Estrategia, Diseño de marca, Aplicaciones, Digital)
@@ -116,6 +118,8 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ---
 
 ### 3. [Siente Cinco](https://branding.sientecinco.cl/)
+<img src="Assets/4.png" alt="Antecedente 3">
+<img src="Assets/5.png" alt="Antecedente 3">
 **Tipo:** Consultora de branding estratégico chilena
 
  **Aspectos positivos:**
@@ -132,6 +136,7 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ---
 
 ### 4. [Portafolio Personal](https://mikuby11.github.io/Clase_10)
+<img src="Assets/6.png" alt="Antecedente 4">
 **Tipo:** Portafolio estudiantil (Fernanda Humeres)
 
  **Aspectos positivos:**
@@ -148,6 +153,8 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ---
 
 ### 5. [Portafolio Profesor FACO](https://faco.cl/etcetera)
+<img src="Assets/7.png" alt="Antecedente 5">
+<img src="Assets/9.png" alt="Antecedente 5">
 **Tipo:** Portafolio personal con enfoque archivístico
 
  **Aspectos positivos:**
@@ -162,6 +169,8 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ---
 
 ### 6. [ALT Agency](https://www.altagency.co.uk)
+<img src="Assets/10.png" alt="Antecedente 6">
+<img src="Assets/11.png" alt="Antecedente 6">
 **Tipo:** Agencia de diseño web en Birmingham, UK
 
  **Aspectos positivos:**
@@ -176,6 +185,8 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ---
 
 ### 7. [Lincs Group](https://lincsgroup.uk)
+<img src="Assets/12.png" alt="Antecedente 7">
+<img src="Assets/13.png" alt="Antecedente 7">
 **Tipo:** Grupo de diseño y desarrollo web en Lincolnshire, UK
 
  **Aspectos positivos:**
@@ -190,6 +201,8 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ##  Referentes de Diseño
 
 ### 1. [Riot Games](https://www.riotgames.com/es)
+<img src="Assets/14.png" alt="Referente 1">
+<img src="Assets/15.png" alt="Referente 1">
 **Tipo:** Hub corporativo de desarrolladora de videojuegos
 
  **Aspectos positivos:**
@@ -209,6 +222,8 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ---
 
 ### 2. [League of Legends](https://www.leagueoflegends.com/es-es)
+<img src="Assets/16.png" alt="Referente 2">
+<img src="Assets/17.png" alt="Referente 2">
 **Tipo:** Landing page de videojuego + portal de noticias
 
  **Aspectos positivos:**
