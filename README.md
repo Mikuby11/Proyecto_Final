@@ -86,12 +86,12 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 1. [Lowtech](https://www.lowtech.cl)
 **Tipo:** Estudio de diseño chileno con estética minimalista y contemporánea
 
- **Positivo:**
+ **Aspectos positivos:**
 - Navegación intuitiva con foco en contenido visual
 - Estética profesional sin sacrificar creatividad
 - Carga rápida y experiencia fluida
 
- **Negativo:**
+ **Aspectos negativos:**
 - Poca información sobre procesos o servicios específicos
 - Sin funcionalidades interactivas (formularios, cotizadores)
 - Puede resultar demasiado minimalista y saturante
@@ -101,14 +101,14 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 2. [Hey Diseño](https://www.heydiseno.cl/somos-hey-agencia-de-diseno)
 **Tipo:** Agencia de diseño chilena fundada en 2014
 
- **Positivo:**
+ **Aspectos positivos:**
 - Estructura clara que separa servicios (Estrategia, Diseño de marca, Aplicaciones, Digital)
 - Muestra casos de estudio y proyectos destacados
 - Lenguaje cercano y profesional
 - Integra links a Behance para ampliar portafolio
 - Balance entre información y visual
 
- **Negativo:**
+  **Aspectos negativos:**
 - No tiene cotizador ni sistema de contacto dinámico
 
 ---
@@ -116,13 +116,13 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 3. [Siente Cinco](https://branding.sientecinco.cl/)
 **Tipo:** Consultora de branding estratégico chilena
 
- **Positivo:**
+ **Aspectos positivos:**
 - Casos de estudio muy bien documentados con contexto estratégico
 - Diseño sobrio y profesional que genera confianza
 - Estructura clara: casos → servicios → contacto
 - Demuestra impacto real en negocios grandes
 
- **Negativo:**
+  **Aspectos negativos:**
 - Demasiado corporativo, puede intimidar a clientes pequeños
 - Poco accesible para usuarios casuales o estudiantes
 - No muestra procesos creativos ni behind-the-scenes
@@ -132,12 +132,12 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 4. [Portafolio Personal](https://mikuby11.github.io/Clase_10)
 **Tipo:** Portafolio estudiantil (Fernanda Humeres)
 
- **Positivo:**
+ **Aspectos positivos:**
 - Honesto y directo sobre fortalezas y debilidades
 - Lenguaje personal y cercano
 - Simple y funcional para un primer acercamiento
 
- **Negativo:**
+**Aspectos negativos:**
 - Muy básico visualmente (HTML sin estilizar)
 - No muestra proyectos ni trabajos concretos
 - Falta identidad visual propia
@@ -148,13 +148,13 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 5. [Portafolio Profesor FACO](https://faco.cl/etcetera)
 **Tipo:** Portafolio personal con enfoque archivístico
 
- **Positivo:**
+ **Aspectos positivos:**
 - Contexto histórico claro
 - Link a Tumblr del estudio (amplía contenido)
 - Minimalista y directo al grano
 - Alusivo con detalles como usar "computadoras" como marco de foto
 
- **Negativo:**
+  **Aspectos negativos:**
 - Poca información sobre cada proyecto
 
 ---
@@ -162,11 +162,11 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 6. [ALT Agency](https://www.altagency.co.uk)
 **Tipo:** Agencia de diseño web en Birmingham, UK
 
- **Positivo:**
+ **Aspectos positivos:**
 - Profesional pero cercano
 - Promesa de mantención continua
 
- **Negativo:**
+  **Aspectos negativos:**
 - Diseño conservador, poco memorable visualmente
 - Demasiado texto corporativo sin visuales
 - No diferencia claramente sus servicios
@@ -176,11 +176,11 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 7. [Lincs Group](https://lincsgroup.uk)
 **Tipo:** Grupo de diseño y desarrollo web en Lincolnshire, UK
 
- **Positivo:**
+ **Aspectos positivos:**
 - Servicios variados (web, hosting, software)
 - Estética limpia
 
- **Negativo:**
+  **Aspectos negativos:**
 - Sin información sobre portafolio o casos
 - Estética demasiado profesional, poco cercana
 - Bastante "estándar", falta de presencia de marca
@@ -190,7 +190,7 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 1. [Riot Games](https://www.riotgames.com/es)
 **Tipo:** Hub corporativo de desarrolladora de videojuegos
 
- **Aspectos Destacados:**
+ **Aspectos positivos:**
 - **Diseño modular de alto impacto**: Cards grandes con imágenes cinematográficas de calidad AAA
 - **Jerarquía visual potente**: Imágenes hero full-screen que capturan atención inmediata
 - **Navegación clara** y estructura bien definida
@@ -199,7 +199,7 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 - **Responsive impecable**: Se adapta perfectamente a móvil sin perder impacto visual
 - **Storytelling visual**: Cada sección cuenta una historia con imágenes y videos cinematográficos
 
- **Consideraciones:**
+  **Aspectos negativos:**
 - Peso de carga alto (imágenes 3840x1600px requieren buena conexión)
 - Saturación visual puede resultar abrumadora
 - Difícil de replicar sin recursos de alta calidad
@@ -209,14 +209,14 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ### 2. [League of Legends](https://www.leagueoflegends.com/es-es)
 **Tipo:** Landing page de videojuego + portal de noticias
 
- **Aspectos Destacados:**
+ **Aspectos positivos:**
 - **Categorización visual clara**: Organización por roles con iconografía distintiva
 - **Gradientes vibrantes y neón**: Paleta de colores fantasía épica (púrpuras, azules eléctricos, dorados)
 - **Micro-interacciones**: Hover effects en cards, transiciones smooth, elementos reactivos al cursor
 - **Diseño de cards premium**: Cada noticia/actualización con tratamiento gráfico de alta calidad
 - **Estética coherente** con el universo del juego
 
- **Consideraciones:**
+ **Aspectos negativos:**
 - Curva de aprendizaje visual alta
 - Difícil escalabilidad para proyectos pequeños
 - Puede resultar caótico con múltiples secciones compitiendo por atención
