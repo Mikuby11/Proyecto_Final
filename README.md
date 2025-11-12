@@ -242,12 +242,7 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 - Menos responsive que RiotGames
 
 ## Moodboard
-
-<!-- Inserta aquí las imágenes de tu moodboard -->
-<!-- Ejemplo: -->
-<!-- ![Moodboard Paleta de Colores](./assets/moodboard-colors.png) -->
-<!-- ![Moodboard Inspiración Visual](./assets/moodboard-inspiration.png) -->
-
+<img src="Assets/Moodboard.png">
 > **Nota:** Paleta de colores y referencias sensoriales en evaluación
 
 ## Próximos Pasos
