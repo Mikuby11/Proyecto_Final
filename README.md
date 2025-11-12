@@ -84,7 +84,7 @@ Sitio web modular que integra tres espacios interconectados —**portafolio**, *
 ## Análisis de Antecedentes
 
 ### 1. [Lowtech](https://www.lowtech.cl)
-[![Antecedente1](https://raw.githubusercontent.com/Mikuby11/Trabajo_final/refs/heads/main/Assets/1.png)](https://github.com/Mikuby11/Trabajo_final/tree/main/Assets)
+<img src="Assets/1.png" alt="Antecedente 1">
 
 **Tipo:** Estudio de diseño chileno con estética minimalista y contemporánea
 
